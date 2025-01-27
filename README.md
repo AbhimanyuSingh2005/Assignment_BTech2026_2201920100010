@@ -2,3 +2,5 @@
 This is a daily assignment repo.
 
 Question 1: [JAVA INHERITENCE I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
+
+Question 2: [JAVA INHERITENCE II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
