@@ -8,3 +8,5 @@ Question 2: [JAVA INHERITENCE II](https://www.hackerrank.com/challenges/java-inh
 Question 3: [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)
 
 Question 4: Write a JAVA program to implement a class called Circle that has private member variables for radius. Include member functions to calculate the circle's area and circumference.
+
+Question 5: Write a JAVA program to create a class called Rectangle that has private member variables for length and width. Implement member functions to calculate the rectangle's area and perimeter.
